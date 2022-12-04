@@ -1,1 +1,3 @@
 # Crypto-anarchism
+
+Team mates: 
