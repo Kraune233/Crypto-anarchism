@@ -10,7 +10,7 @@ Crypto-anarchism
 
 project setting:
 
-A experimental art of Crypto-anarchism
+An experimental art of Crypto-anarchism
 
 
 Techinical base:
